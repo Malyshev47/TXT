@@ -1,0 +1,14 @@
+Skill to learn:
+
+1. Testing Theory, SDLC, STLC
+2. Clien-server",
+3. JSON, XML. Structure
+4. API Postman (JS, autotest API)
+5. Charles and Fiddler
+6. Dev Tools(Google Chrome, FireFox)
+7. Mobile testing
+8. Android Studio
+9. Terminal Linux
+10. SQL
+11. DB Postgres
+12. Load testing Jmeter
