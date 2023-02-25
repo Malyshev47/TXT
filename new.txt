@@ -1,0 +1,5 @@
+1. Name: Ilya
+2. Surname: Malyshev
+3. Age: 33
+4. Pets: No pets
+5. Salary: 1500
